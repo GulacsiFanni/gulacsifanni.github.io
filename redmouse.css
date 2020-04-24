@@ -1,0 +1,28 @@
+html {
+    width: 300px;
+    margin-left: 0;
+    margin right: 0;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    color: rgb(10, 29, 95);
+    letter-spacing: 3px;
+
+}
+
+
+p {
+    border: dotted black 1px;
+    font-family: 'Dancing Script', cursive;
+    color: #222;
+    padding: 20px;
+    margin: 0;
+    
+
+}
+
+p:hover {
+    background-color: rgba(161, 17, 60, 0.733);
+    cursor: pointer;
+}

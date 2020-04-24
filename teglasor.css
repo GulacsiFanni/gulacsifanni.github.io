@@ -1,0 +1,32 @@
+
+
+.container {
+    border: solid 2px blue;
+    display: flex;
+    padding: 17px;
+    width: 650px;
+}
+
+#due {
+    background: rgba(250, 139, 12, 0.863);
+    margin-top: 20px;
+}
+
+.cu {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    margin: 8px;
+}
+
+.cd {
+    width: 50px;
+    height: 50px;
+    background: purple;
+    margin: 8px;
+}
+
+/* main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; */

@@ -1,0 +1,104 @@
+html {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+img {
+  width: 100%;
+  border-top: 5px solid #222}
+
+
+header {
+  width: 1000px;
+  height: 280px;
+  position: relative;
+}
+
+.hi {
+  position: absolute;
+  left: 220px;
+  bottom: 0px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+section {
+  font-size: 60px;
+}
+
+
+
+
+p, h1, ul, h2 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 130px;
+}
+
+p, ul {
+    line-height: 28px;
+    color: #222;
+    margin-bottom: 50px;}
+    
+
+ul {
+  list-style-type: square;
+}
+  
+  
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+ 
+  }
+
+
+.tartalom {
+  width: 600px;
+  margin: 50px 220px 50px 220px;
+  color: #222;
+}
+
+
+.bla {
+  width: 640px;
+  background: #222;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  padding: 50px;
+  margin-left: 170px;
+  position: relative;
+}
+
+.bla::before {
+  content: '“';
+  position: absolute;
+  top: -20px;
+  left: 1px;
+  font-size: 110px;
+}
+
+
+.egy {
+  line-height: 8px;
+}
+
+.vonal {
+  width: 680px;
+  height: 5px;
+  background: #222;
+  margin-left: 180px;
+}
+
+#bek {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
